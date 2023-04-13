@@ -72,25 +72,25 @@ is_fraud: Whether the transaction is fraud(1) or not(0)
 The libraries that we used to build this project are:
 
  - numpy
+  ![numpy](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Numpy.png?raw=true)
  - pandas
+ ![pandas](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Pandas.png?raw=true)
  - matplotlib
+ ![matplotlib](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Matplotlib.png?raw=true)
  - seaborn
+ ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Seaborn.png?raw=true)
+ - sklearn
+ ![skleanr](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sklearn.png?raw=true)
  - os
+ ![os](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/os.png?raw=true)
  - warnings
- - opendatasets
- - train_test_split
- - skew
+ ![warnings](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Warnings.png?raw=true)
  - SMOTETomek
+ ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Smotetomek.png?raw=true)
  - Counter
- - SelectKBest
- - chi2
- - ExtraTreesClassifier
- - MinMaxScaler
+ ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Counter.png?raw=true)
  - Sequential
- - accuracy_score
- - classification_report
- - confusion_matrix
- - GridSearchCV
+ ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sequential.png?raw=true)
  
 ## Steps performed
 

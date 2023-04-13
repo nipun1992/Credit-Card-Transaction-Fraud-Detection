@@ -71,18 +71,18 @@ is_fraud: Whether the transaction is fraud(1) or not(0)
 
 The libraries that we used to build this project are:
 
- - numpy
+ #### numpy
   ![numpy](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Numpy.png?raw=true)
- - pandas
+ #### pandas
  ![pandas](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Pandas.png?raw=true)
- - matplotlib
+ #### matplotlib
  ![matplotlib](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Matplotlib.png?raw=true)
- - seaborn
+ #### seaborn
  ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Seaborn.png?raw=true)
- - sklearn
+ #### sklearn
  ![skleanr](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sklearn.png?raw=true)
- - Sequential
- ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sequential.png?raw=true)
+ #### keras
+ ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Keras.png?raw=true)
  
 ## Steps performed
 
@@ -101,3 +101,29 @@ The libraries that we used to build this project are:
 - Training vs Validation accuracy and loss comparison
 - Model evaluation
 - Hyperparameter tuning
+
+## Plots
+
+Countplot before balancing the dataset
+
+![countplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Countplot.png?raw=true)
+
+Countplot after oversampling
+
+![countplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Countplot1.png?raw=true)
+
+Boxplot with outliers
+
+![boxplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Boxplot.png?raw=true)
+
+Boxplot after treatment outliers
+
+![boxplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Boxplot1.png?raw=true)
+
+Heatmap
+
+![heatmap](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Heatmap.png?raw=true)
+
+Feature Importance
+
+![Feature Importance](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Feature%20Importance.png?raw=true)

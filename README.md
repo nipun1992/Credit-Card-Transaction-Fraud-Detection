@@ -81,14 +81,6 @@ The libraries that we used to build this project are:
  ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Seaborn.png?raw=true)
  - sklearn
  ![skleanr](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sklearn.png?raw=true)
- - os
- ![os](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/os.png?raw=true)
- - warnings
- ![warnings](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Warnings.png?raw=true)
- - SMOTETomek
- ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Smotetomek.png?raw=true)
- - Counter
- ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Counter.png?raw=true)
  - Sequential
  ![seaborn](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Screenshots/Sequential.png?raw=true)
  

@@ -94,7 +94,6 @@ The libraries that we used to build this project are:
 - Feature importance
 - Feature selection
 - Feature scaling
-- Train test split
 - Model Building
 - Model compiling
 - Model training and testing
@@ -104,21 +103,17 @@ The libraries that we used to build this project are:
 
 ## Plots
 
-Countplot before balancing the dataset
+Countplot
 
 ![countplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Countplot.png?raw=true)
 
-Countplot after oversampling
+Countplot
 
 ![countplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Countplot1.png?raw=true)
 
-Boxplot with outliers
+Boxplot
 
 ![boxplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Boxplot.png?raw=true)
-
-Boxplot after treatment outliers
-
-![boxplot](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Boxplot1.png?raw=true)
 
 Heatmap
 
@@ -127,3 +122,23 @@ Heatmap
 Feature Importance
 
 ![Feature Importance](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Feature%20Importance.png?raw=true)
+
+Histogram
+
+![Histogram](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Histogram.png?raw=true)
+
+Training vs Validation accuracy
+
+![Training vs Validation accuracy](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Model%20Accuracy.png?raw=true)
+
+Training vs Validation loss
+
+![Training vs Validation loss](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Model%20loss.png?raw=true)
+
+Confusion matrix - ANN Sequential model
+
+![Confusion matrix](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Confusion%20Matrix%20ANN%20Model.png?raw=true)
+
+Confusion matrix - RandomizedSearchCV model
+
+![Confusion matrix](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Confusion%20Matrix%20RandomizedSearchCV.png?raw=true)

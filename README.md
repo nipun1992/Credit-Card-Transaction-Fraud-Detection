@@ -17,7 +17,7 @@ This project was done by a group of 3 members including:
  - Aiswarya S Parvathi
  - Vengadesh S
  
-### About the dataset
+## About the dataset
 
 Link: https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset
 
@@ -142,3 +142,24 @@ Confusion matrix - ANN Sequential model
 Confusion matrix - RandomizedSearchCV model
 
 ![Confusion matrix](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Confusion%20Matrix%20Hyperparameter%20tuned%20ANN%20model.png?raw=true)
+
+## Model Performance
+
+- The ANN model is yielding an accuracy score of 91.21% on the test data. The model has predicted 1919 true negatives and 226 false positives out of 2145 fraudulent transactions resulting a recall score of 0.89 for the fraudulent class transactions. This model has predicted 504956 true positives and 48618 false negatives out of 553574 genuine transactions resulting a precision score of 1.00 and a recall score of 0.91 for the genuine class transactions.
+
+
+- The ANN model hyperparameter tuned using RandomizedSearchCV is yielding an accuracy of 90.71% on the test data. This model has predicted 1909 true negatives and 236 false positives out of 2145 fraudulent transactions resulting a recall score of 0.89 for the fraudulent class transactions. This model has predicted 502186 true positives and 51388 false negatives out of 553574 genuine transactions resulting a precision score of 1.00 and a recall score of 0.91 for the genuine class transactions.
+## Files and Folders
+
+- **Plots** folder consists of the plots that were plotted in the project
+
+- **Screenshots** folder consists of the online pictures depicting the libraries used in the project
+
+- **DL_Assignment_Template.ipynb** file is the template that has been referred to for the project
+
+- **Deep Learning - Fraud Detection.ipynb** file is the jupyer notebook that contains the project code
+
+- **README.md** is the README File
+
+- **ANN model.h5** is the saved ANN model
+- **RandomizedSearchCV model.h5** is the saved hyperparameter tuned model

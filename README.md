@@ -129,11 +129,11 @@ Histogram
 
 Training vs Validation accuracy
 
-![Training vs Validation accuracy](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Model%20Accuracy.png?raw=true)
+![Training vs Validation accuracy](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Training%20vs%20Validation%20Accuracy.png?raw=true)
 
 Training vs Validation loss
 
-![Training vs Validation loss](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Model%20loss.png?raw=true)
+![Training vs Validation loss](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Training%20vs%20Validation%20Loss.png?raw=true)
 
 Confusion matrix - ANN Sequential model
 
@@ -141,4 +141,4 @@ Confusion matrix - ANN Sequential model
 
 Confusion matrix - RandomizedSearchCV model
 
-![Confusion matrix](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Confusion%20Matrix%20RandomizedSearchCV.png?raw=true)
+![Confusion matrix](https://github.com/nipun1992/Credit-card-transaction-fraud-detection/blob/master/Plots/Confusion%20Matrix%20Hyperparameter%20tuned%20ANN%20model.png?raw=true)
